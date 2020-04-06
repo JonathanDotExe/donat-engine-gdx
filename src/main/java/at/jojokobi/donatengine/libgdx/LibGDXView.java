@@ -19,7 +19,7 @@ public class LibGDXView implements GameView {
 	}
 
 	@Override
-	public void render(List<RenderData> data, TileSystem tileSystem, Camera cam) {
+	public void render(List<RenderData> data, TileSystem tileSystem, Camera cam, double timer) {
 		
 	}
 
